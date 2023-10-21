@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @barbit4l
 - 👀 I’m interested in ... web programming, network security, and just learning as much as i can
-- 🌱 I’m currently learning ... java, python, and html
-- 💞️ I’m looking to collaborate on ... nothing right now
+- 🌱 I’m currently learning ... c++
 - 📫 How to reach me ... don't
 
 <!---
